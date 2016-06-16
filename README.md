@@ -16,7 +16,7 @@ myDArray = dArrayInit(sizeof(<yourElement>));;
 You need to pass the size of the elements that you want to store
 
 ####Use the API method 
-All the API method are defined in *variabile_Int_Array.h*
+All the API method are defined in *dArray.h*
 
 ####Add an element:
 
